@@ -100,8 +100,8 @@ namespace Programs
             Console.WriteLine();
             #endregion
 
-            // Program 5: FIXED VERSION
-            #region All Operators Demo
+            // Program 5: ARITHMETIC OPERATORS
+            #region 
             Console.WriteLine("=== 5. All Operators Demo ===");
             Console.Write("Enter first value: ");
             int val1 = int.Parse(Console.ReadLine());
