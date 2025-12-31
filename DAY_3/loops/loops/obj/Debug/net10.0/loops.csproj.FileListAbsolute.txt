@@ -1,0 +1,15 @@
+D:\.NET\DAY_3\loops\loops\bin\Debug\net10.0\loops.exe
+D:\.NET\DAY_3\loops\loops\bin\Debug\net10.0\loops.deps.json
+D:\.NET\DAY_3\loops\loops\bin\Debug\net10.0\loops.runtimeconfig.json
+D:\.NET\DAY_3\loops\loops\bin\Debug\net10.0\loops.dll
+D:\.NET\DAY_3\loops\loops\bin\Debug\net10.0\loops.pdb
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\loops.AssemblyInfoInputs.cache
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\loops.AssemblyInfo.cs
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\loops.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\loops.sourcelink.json
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\loops.dll
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\refint\loops.dll
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\loops.pdb
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\loops.genruntimeconfig.cache
+D:\.NET\DAY_3\loops\loops\obj\Debug\net10.0\ref\loops.dll
