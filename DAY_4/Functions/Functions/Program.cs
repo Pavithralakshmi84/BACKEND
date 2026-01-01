@@ -4,13 +4,10 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("=== 20 PROGRAMS - FOR, WHILE, DO-WHILE LOOPS ===");
-        Console.WriteLine("All programs run automatically with sample inputs.\n");
-
-      
-        PrintSeries1To20_For(); Console.WriteLine();
-        PrintSeries1To20_While(); Console.WriteLine();
-        PrintSeries1To20_DoWhile(); Console.WriteLine("\n");
+        
+        PrintSeries_For(); Console.WriteLine();
+        PrintSeries_While(); Console.WriteLine();
+        PrintSeries_DoWhile(); Console.WriteLine("\n");
 
         PrintOddSeries_For(); Console.WriteLine();
         PrintOddSeries_While(); Console.WriteLine();
@@ -46,7 +43,7 @@ class Program
         Console.WriteLine("8. Sum 0+5+10+...: " + SumMultiples5_DoWhile(10));
         Console.WriteLine();
 
-        // 9-11: Factorial series
+        
         Console.WriteLine("9-11) Factorial Series (n=5):");
         Console.WriteLine("9. 1/1!+2/2!+...: " + SeriesNFact_For(5));
         Console.WriteLine("9. 1/1!+2/2!+...: " + SeriesNFact_While(5));
@@ -121,10 +118,10 @@ class Program
         Console.ReadKey();
     }
 
-    #region 1-4 Series Printing Functions
-    static void PrintSeries1To20_For() { Console.Write("1. 1-20 (for): "); for (int i = 1; i <= 20; i++) Console.Write(i + " "); }
-    static void PrintSeries1To20_While() { Console.Write("1. 1-20 (while): "); int i = 1; while (i <= 20) { Console.Write(i + " "); i++; } }
-    static void PrintSeries1To20_DoWhile() { Console.Write("1. 1-20 (do-while): "); int i = 1; do { Console.Write(i + " "); i++; } while (i <= 20); }
+    #region
+    static void PrintSeries_For() { Console.Write("1. 1-20 (for): "); for (int i = 1; i <= 20; i++) Console.Write(i + " "); }
+    static void PrintSeries_While() { Console.Write("1. 1-20 (while): "); int i = 1; while (i <= 20) { Console.Write(i + " "); i++; } }
+    static void PrintSeries_DoWhile() { Console.Write("1. 1-20 (do-while): "); int i = 1; do { Console.Write(i + " "); i++; } while (i <= 20); }
 
     static void PrintOddSeries_For() { Console.Write("2. Odds (for): "); for (int i = 1; i <= 20; i += 2) Console.Write(i + " "); }
     static void PrintOddSeries_While() { Console.Write("2. Odds (while): "); int i = 1; while (i <= 20) { Console.Write(i + " "); i += 2; } }
