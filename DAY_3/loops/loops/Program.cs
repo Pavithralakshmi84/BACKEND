@@ -4,8 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("=== 20 PROGRAMS - FOR, WHILE, DO-WHILE (NO FUNCTIONS) ===");
-        Console.WriteLine("All programs run automatically with sample inputs.\n");
+
 
         #region 1. Series 1 to 20
         Console.Write("1. 1-20 (for):    ");
@@ -30,13 +29,13 @@ class Program
         { int i = 1; while (i <= 20) { Console.Write(i + " "); i += 2; } }
         Console.WriteLine();
 
-        Console.Write("2. Odds (do):     ");
+        Console.Write("2. Odds (do):");
         { int i = 1; do { Console.Write(i + " "); i += 2; } while (i <= 20); }
         Console.WriteLine();
         #endregion
 
         #region 3. Even series 0-20
-        Console.Write("3. Evens (for):   ");
+        Console.Write("3. Evens (for): ");
         for (int i = 0; i <= 20; i += 2) Console.Write(i + " ");
         Console.WriteLine();
 
@@ -44,17 +43,17 @@ class Program
         { int i = 0; while (i <= 20) { Console.Write(i + " "); i += 2; } }
         Console.WriteLine();
 
-        Console.Write("3. Evens (do):    ");
+        Console.Write("3. Evens (do):  ");
         { int i = 0; do { Console.Write(i + " "); i += 2; } while (i <= 20); }
         Console.WriteLine();
         #endregion
 
         #region 4. Multiples of 5 (0-25)
-        Console.Write("4. 5s (for):      ");
+        Console.Write("4. 5s (for):     ");
         for (int i = 0; i <= 25; i += 5) Console.Write(i + " ");
         Console.WriteLine();
 
-        Console.Write("4. 5s (while):    ");
+        Console.Write("4. 5s (while):");
         { int i = 0; while (i <= 25) { Console.Write(i + " "); i += 5; } }
         Console.WriteLine();
 
