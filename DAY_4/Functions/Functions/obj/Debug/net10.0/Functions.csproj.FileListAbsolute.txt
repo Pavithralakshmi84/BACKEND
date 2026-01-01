@@ -1,0 +1,15 @@
+D:\.NET\DAY_4\Functions\Functions\bin\Debug\net10.0\Functions.exe
+D:\.NET\DAY_4\Functions\Functions\bin\Debug\net10.0\Functions.deps.json
+D:\.NET\DAY_4\Functions\Functions\bin\Debug\net10.0\Functions.runtimeconfig.json
+D:\.NET\DAY_4\Functions\Functions\bin\Debug\net10.0\Functions.dll
+D:\.NET\DAY_4\Functions\Functions\bin\Debug\net10.0\Functions.pdb
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\Functions.AssemblyInfoInputs.cache
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\Functions.AssemblyInfo.cs
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\Functions.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\Functions.sourcelink.json
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\Functions.dll
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\refint\Functions.dll
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\Functions.pdb
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\Functions.genruntimeconfig.cache
+D:\.NET\DAY_4\Functions\Functions\obj\Debug\net10.0\ref\Functions.dll
