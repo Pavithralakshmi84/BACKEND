@@ -7,25 +7,35 @@ namespace Programs
         {
             // Program 1: Find Largest of 3 Numbers
             #region Largest of 3 Numbers
-            Console.WriteLine("=== 1. Largest of 3 Numbers ===");
-            Console.Write("Enter first number: ");
-            int num1 = int.Parse(Console.ReadLine());
-            Console.Write("Enter second number: ");
-            int num2 = int.Parse(Console.ReadLine());
-            Console.Write("Enter third number: ");
-            int num3 = int.Parse(Console.ReadLine());
+            {
+                Console.WriteLine("Largest of 3 numbers");
+                Console.WriteLine("Enter the first number");
+                int num1 = int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter the second number");
+                int num2 = int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter the Thurd number");
+                int num3 = int.Parse(Console.ReadLine());
 
-            int largest = num1;
-            if (num2 > largest) largest = num2;
-            if (num3 > largest) largest = num3;
+                if (num1 > num2 && num1 > num3)
+                {
+                    Console.WriteLine($"{num1} is a greater");
 
-            Console.WriteLine($"Largest number is: {largest}");
-            Console.WriteLine();
-            #endregion
+                }
+                else if (num2 > num1 && num2 > num3)
+                {
+                    Console.WriteLine($"{num2} is a greater");
+                }
+                else
+                {
+                    Console.WriteLine($"{num3} is a greater");
 
-            // Program 2: Student Grade using Multiple else-if
-            #region Student Grade Multiple else-if
-            Console.WriteLine("=== 2. Student Grade (Multiple else-if) ===");
+                }
+            }
+                #endregion
+
+                // Program 2: Student Grade using Multiple else-if
+                #region Student Grade Multiple else-if
+                Console.WriteLine("=== 2. Student Grade (Multiple else-if) ===");
             Console.Write("Enter student marks (0-100): ");
             int mark1 = int.Parse(Console.ReadLine());
 

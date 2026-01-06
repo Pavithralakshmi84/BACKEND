@@ -22,7 +22,7 @@ namespace NumberCheckerAndTempConverter
         }
 
         #region Odd Even Checker
-       
+
         /// Program to check if a number is odd or even
 
         static void CheckOddEven()
@@ -31,61 +31,50 @@ namespace NumberCheckerAndTempConverter
             Console.WriteLine("===================");
 
             Console.Write("Enter a number: ");
-            if (int.TryParse(Console.ReadLine(), out int number))
+            int number = int.Parse(Console.ReadLine());
+            if (number % 2 == 0)
             {
-                string result = (number % 2 == 0) ? "EVEN" : "ODD";
-                Console.WriteLine($"\n{number} is {result}!");
+                Console.WriteLine($"{number} is a Even Number");
             }
             else
             {
-                Console.WriteLine("Invalid input! Please enter a valid number.");
+                Console.WriteLine($"{number} is a Odd Number");
             }
         }
         #endregion
 
         #region Temperature Converter
-     
+
         /// Program to convert Celsius to Fahrenheit and vice versa
-       
+
         static void TemperatureConverter()
         {
-            Console.WriteLine("2. TEMPERATURE CONVERTER");
-            Console.WriteLine("========================");
-
-            Console.WriteLine("Choose conversion:");
+            Console.WriteLine("Temperature Converter");
             Console.WriteLine("1. Celsius to Fahrenheit");
             Console.WriteLine("2. Fahrenheit to Celsius");
-            Console.Write("Enter choice (1 or 2): ");
+            Console.WriteLine("Enter your choice (1 or 2): ");
 
-            if (int.TryParse(Console.ReadLine(), out int choice) && (choice == 1 || choice == 2))
+            int choice = int.Parse(Console.ReadLine());
+            int result;
+            Console.WriteLine("Enter the Temperature");
+            int temp = int.Parse(Console.ReadLine());
+            switch (choice)
             {
-                Console.Write("Enter temperature value: ");
-                if (double.TryParse(Console.ReadLine(), out double temp))
-                {
-                    double result = 0;
-                    string fromUnit, toUnit;
-
-                    if (choice == 1)
+                case 1:
                     {
                         result = (temp * 9 / 5) + 32;
-                        fromUnit = "°C"; toUnit = "°F";
+
+                        Console.WriteLine($"{temp}°C = {result}°F");
+                        break;
+
                     }
-                    else
+                case 2:
                     {
-                        result = (temp - 32) * 5 / 9;
-                        fromUnit = "°F"; toUnit = "°C";
+                        result = temp + 32 * 5 / 9;
+                        Console.WriteLine($"{temp}°F={result}°C");
+                        break;
                     }
 
-                    Console.WriteLine($"\n{temp}{fromUnit} = {result:F2}{toUnit}");
-                }
-                else
-                {
-                    Console.WriteLine("Invalid temperature value!");
-                }
-            }
-            else
-            {
-                Console.WriteLine("Invalid choice! Please enter 1 or 2.");
             }
         }
         #endregion

@@ -1,0 +1,15 @@
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\Oops.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\Oops.AssemblyInfoInputs.cache
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\Oops.AssemblyInfo.cs
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\Oops.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\Oops.sourcelink.json
+D:\.NET\DAY_6\Oops\Oops\bin\Debug\net10.0\Oops.exe
+D:\.NET\DAY_6\Oops\Oops\bin\Debug\net10.0\Oops.deps.json
+D:\.NET\DAY_6\Oops\Oops\bin\Debug\net10.0\Oops.runtimeconfig.json
+D:\.NET\DAY_6\Oops\Oops\bin\Debug\net10.0\Oops.dll
+D:\.NET\DAY_6\Oops\Oops\bin\Debug\net10.0\Oops.pdb
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\Oops.dll
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\refint\Oops.dll
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\Oops.pdb
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\Oops.genruntimeconfig.cache
+D:\.NET\DAY_6\Oops\Oops\obj\Debug\net10.0\ref\Oops.dll
