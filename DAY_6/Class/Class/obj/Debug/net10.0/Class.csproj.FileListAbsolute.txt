@@ -1,0 +1,15 @@
+D:\.NET\DAY_6\Class\Class\bin\Debug\net10.0\Class.exe
+D:\.NET\DAY_6\Class\Class\bin\Debug\net10.0\Class.deps.json
+D:\.NET\DAY_6\Class\Class\bin\Debug\net10.0\Class.runtimeconfig.json
+D:\.NET\DAY_6\Class\Class\bin\Debug\net10.0\Class.dll
+D:\.NET\DAY_6\Class\Class\bin\Debug\net10.0\Class.pdb
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\Class.AssemblyInfoInputs.cache
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\Class.AssemblyInfo.cs
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\Class.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\Class.sourcelink.json
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\Class.dll
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\refint\Class.dll
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\Class.pdb
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\Class.genruntimeconfig.cache
+D:\.NET\DAY_6\Class\Class\obj\Debug\net10.0\ref\Class.dll
