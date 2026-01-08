@@ -1,0 +1,15 @@
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\Inheritance_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\Inheritance_Overloading.AssemblyInfoInputs.cache
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\Inheritance_Overloading.AssemblyInfo.cs
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\Inheritance_Overloading.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\Inheritance_Overloading.sourcelink.json
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\bin\Debug\net10.0\Inheritance_Overloading.exe
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\bin\Debug\net10.0\Inheritance_Overloading.deps.json
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\bin\Debug\net10.0\Inheritance_Overloading.runtimeconfig.json
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\bin\Debug\net10.0\Inheritance_Overloading.dll
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\bin\Debug\net10.0\Inheritance_Overloading.pdb
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\Inheritance_Overloading.dll
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\refint\Inheritance_Overloading.dll
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\Inheritance_Overloading.pdb
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\Inheritance_Overloading.genruntimeconfig.cache
+D:\.NET\DAY_7\Inheritance_Overloading\Inheritance_Overloading\obj\Debug\net10.0\ref\Inheritance_Overloading.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\DAY_7\\Inheritance_Overloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F041C93-78D0-BEB5-37F3-393522242276}|Inheritance_Overloading\\Inheritance_Overloading.csproj|d:\\.net\\day_7\\inheritance_overloading\\inheritance_overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F041C93-78D0-BEB5-37F3-393522242276}|Inheritance_Overloading\\Inheritance_Overloading.csproj|solutionrelative:inheritance_overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY_7\\Inheritance_Overloading\\Inheritance_Overloading\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance_Overloading\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY_7\\Inheritance_Overloading\\Inheritance_Overloading\\Program.cs",
+              "RelativeToolTip": "Inheritance_Overloading\\Program.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:43:54.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
