@@ -1,0 +1,15 @@
+D:\.NET\DAY_8\Access_modifier\Access_modifier\bin\Debug\net10.0\Access_modifier.exe
+D:\.NET\DAY_8\Access_modifier\Access_modifier\bin\Debug\net10.0\Access_modifier.deps.json
+D:\.NET\DAY_8\Access_modifier\Access_modifier\bin\Debug\net10.0\Access_modifier.runtimeconfig.json
+D:\.NET\DAY_8\Access_modifier\Access_modifier\bin\Debug\net10.0\Access_modifier.dll
+D:\.NET\DAY_8\Access_modifier\Access_modifier\bin\Debug\net10.0\Access_modifier.pdb
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\Access_modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\Access_modifier.AssemblyInfoInputs.cache
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\Access_modifier.AssemblyInfo.cs
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\Access_modifier.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\Access_modifier.sourcelink.json
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\Access_modifier.dll
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\refint\Access_modifier.dll
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\Access_modifier.pdb
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\Access_modifier.genruntimeconfig.cache
+D:\.NET\DAY_8\Access_modifier\Access_modifier\obj\Debug\net10.0\ref\Access_modifier.dll

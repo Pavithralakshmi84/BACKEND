@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\DAY_8\\Access_modifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5318EE5E-AD53-4F21-9478-B95CF9411FCB}|Access_modifier\\Access_modifier.csproj|d:\\.net\\day_8\\access_modifier\\access_modifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5318EE5E-AD53-4F21-9478-B95CF9411FCB}|Access_modifier\\Access_modifier.csproj|solutionrelative:access_modifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY_8\\Access_modifier\\Access_modifier\\Program.cs",
+              "RelativeDocumentMoniker": "Access_modifier\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY_8\\Access_modifier\\Access_modifier\\Program.cs",
+              "RelativeToolTip": "Access_modifier\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:42:09.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

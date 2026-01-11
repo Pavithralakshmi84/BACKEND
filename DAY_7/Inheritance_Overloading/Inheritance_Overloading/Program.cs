@@ -55,7 +55,10 @@ namespace InheritanceAndOverloading
         }
     }
 
-    #region Employee Class
+    #region Employee class MyClass
+	{
+
+	}
     class Employee
     {
         private int empId;
