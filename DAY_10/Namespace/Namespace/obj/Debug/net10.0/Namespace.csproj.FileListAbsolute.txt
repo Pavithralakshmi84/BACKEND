@@ -1,0 +1,15 @@
+D:\.NET\DAY_10\Namespace\Namespace\bin\Debug\net10.0\Namespace.exe
+D:\.NET\DAY_10\Namespace\Namespace\bin\Debug\net10.0\Namespace.deps.json
+D:\.NET\DAY_10\Namespace\Namespace\bin\Debug\net10.0\Namespace.runtimeconfig.json
+D:\.NET\DAY_10\Namespace\Namespace\bin\Debug\net10.0\Namespace.dll
+D:\.NET\DAY_10\Namespace\Namespace\bin\Debug\net10.0\Namespace.pdb
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\Namespace.AssemblyInfoInputs.cache
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\Namespace.AssemblyInfo.cs
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\Namespace.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\Namespace.sourcelink.json
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\Namespace.dll
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\refint\Namespace.dll
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\Namespace.pdb
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\Namespace.genruntimeconfig.cache
+D:\.NET\DAY_10\Namespace\Namespace\obj\Debug\net10.0\ref\Namespace.dll
