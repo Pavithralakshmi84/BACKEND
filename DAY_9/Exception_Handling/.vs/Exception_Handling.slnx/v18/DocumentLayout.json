@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\DAY_9\\Exception_Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A08457D-81F1-21FA-422F-B805989487D7}|Exception_Handling\\Exception_Handling.csproj|d:\\.net\\day_9\\exception_handling\\exception_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A08457D-81F1-21FA-422F-B805989487D7}|Exception_Handling\\Exception_Handling.csproj|solutionrelative:exception_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY_9\\Exception_Handling\\Exception_Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Exception_Handling\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY_9\\Exception_Handling\\Exception_Handling\\Program.cs",
+              "RelativeToolTip": "Exception_Handling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:45:48.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
