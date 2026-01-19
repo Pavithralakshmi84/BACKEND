@@ -1,0 +1,15 @@
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\Class_library.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\Class_library.AssemblyInfoInputs.cache
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\Class_library.AssemblyInfo.cs
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\Class_library.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\Class_library.sourcelink.json
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\bin\Debug\net10.0\Class_library.exe
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\bin\Debug\net10.0\Class_library.deps.json
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\bin\Debug\net10.0\Class_library.runtimeconfig.json
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\bin\Debug\net10.0\Class_library.dll
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\bin\Debug\net10.0\Class_library.pdb
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\Class_library.dll
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\refint\Class_library.dll
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\Class_library.pdb
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\Class_library.genruntimeconfig.cache
+D:\.NET\DAY_13\Class_libraryDDL_EXE\Class_library\obj\Debug\net10.0\ref\Class_library.dll

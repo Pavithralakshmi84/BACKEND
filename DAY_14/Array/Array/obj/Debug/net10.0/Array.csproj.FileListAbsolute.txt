@@ -1,0 +1,15 @@
+D:\.NET\DAY_14\Array\Array\bin\Debug\net10.0\Array.exe
+D:\.NET\DAY_14\Array\Array\bin\Debug\net10.0\Array.deps.json
+D:\.NET\DAY_14\Array\Array\bin\Debug\net10.0\Array.runtimeconfig.json
+D:\.NET\DAY_14\Array\Array\bin\Debug\net10.0\Array.dll
+D:\.NET\DAY_14\Array\Array\bin\Debug\net10.0\Array.pdb
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\Array.AssemblyInfoInputs.cache
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\Array.AssemblyInfo.cs
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\Array.csproj.CoreCompileInputs.cache
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\Array.sourcelink.json
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\Array.dll
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\refint\Array.dll
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\Array.pdb
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
+D:\.NET\DAY_14\Array\Array\obj\Debug\net10.0\ref\Array.dll
