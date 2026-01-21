@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DelegateExamples
+namespace Delegate
 {
     // Task 1: Simple Delegate for Math Operation
     #region Task1_SimpleDelegate
