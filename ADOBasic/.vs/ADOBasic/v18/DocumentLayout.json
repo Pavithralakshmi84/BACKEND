@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\ADOBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|D:\\.NET\\ADOBasic\\adobasic\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|D:\\.NET\\ADOBasic\\adobasic\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|d:\\.net\\adobasic\\adobasic\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|d:\\.net\\adobasic\\adobasic\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|d:\\.net\\adobasic\\adobasic\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|d:\\.net\\adobasic\\adobasic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|d:\\.net\\adobasic\\adobasic\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|d:\\.net\\adobasic\\adobasic\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|d:\\.net\\adobasic\\adobasic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|D:\\.NET\\ADOBasic\\adobasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|D:\\.NET\\ADOBasic\\adobasic\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|d:\\.net\\adobasic\\adobasic\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DA3052-BBB6-4B39-A726-940E322AB2EC}|ADOBasic\\ADOBasic.csproj|solutionrelative:adobasic\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form2.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form2.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form2.cs [Design]",
+              "RelativeToolTip": "ADOBasic\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:26:52.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form3.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form3.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form3.cs [Design]",
+              "RelativeToolTip": "ADOBasic\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:27:00.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form4.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form4.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form4.cs [Design]",
+              "RelativeToolTip": "ADOBasic\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:27:02.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form5.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form5.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form5.cs [Design]",
+              "RelativeToolTip": "ADOBasic\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:07:52.145Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form6.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form6.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form6.cs [Design]",
+              "RelativeToolTip": "ADOBasic\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:12:55.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form1.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form1.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form1.cs [Design]",
+              "RelativeToolTip": "ADOBasic\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:26:08.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form1.resx",
+              "RelativeDocumentMoniker": "ADOBasic\\Form1.resx",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form1.resx",
+              "RelativeToolTip": "ADOBasic\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-08T20:56:05.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form1.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form1.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form1.cs",
+              "RelativeToolTip": "ADOBasic\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:26:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Program.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Program.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Program.cs",
+              "RelativeToolTip": "ADOBasic\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:17:27.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form1.Designer.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form1.Designer.cs",
+              "RelativeToolTip": "ADOBasic\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:26:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form5.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form5.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form5.cs",
+              "RelativeToolTip": "ADOBasic\\Form5.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:15:14.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "D:\\.NET\\ADOBasic\\ADOBasic\\Form6.cs",
+              "RelativeDocumentMoniker": "ADOBasic\\Form6.cs",
+              "ToolTip": "D:\\.NET\\ADOBasic\\ADOBasic\\Form6.cs",
+              "RelativeToolTip": "ADOBasic\\Form6.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:14:07.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

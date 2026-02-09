@@ -1,0 +1,10 @@
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\bin\Debug\Stored_Pro.exe.config
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\bin\Debug\Stored_Pro.exe
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\bin\Debug\Stored_Pro.pdb
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\obj\Debug\Stored_Pro.csproj.AssemblyReference.cache
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\obj\Debug\Stored_Pro.Form1.resources
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\obj\Debug\Stored_Pro.Properties.Resources.resources
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\obj\Debug\Stored_Pro.csproj.GenerateResource.cache
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\obj\Debug\Stored_Pro.csproj.CoreCompileInputs.cache
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\obj\Debug\Stored_Pro.exe
+D:\.NET\Windows_Application\Stored_Pro\Stored_Pro\obj\Debug\Stored_Pro.pdb

@@ -1,0 +1,12 @@
+D:\.NET\Windows_Application\Win_Form\Win_Form\bin\Debug\Win_Form.exe.config
+D:\.NET\Windows_Application\Win_Form\Win_Form\bin\Debug\Win_Form.exe
+D:\.NET\Windows_Application\Win_Form\Win_Form\bin\Debug\Win_Form.pdb
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.csproj.AssemblyReference.cache
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.Form1.resources
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.Properties.Resources.resources
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.csproj.GenerateResource.cache
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.csproj.CoreCompileInputs.cache
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.exe
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.pdb
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.Form2.resources
+D:\.NET\Windows_Application\Win_Form\Win_Form\obj\Debug\Win_Form.Form3.resources
