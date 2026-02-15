@@ -22,7 +22,7 @@ namespace Win_Form
         {
             using (SqlConnection con = new SqlConnection("Server=DESKTOP-7ML64CQ;User Id=sa;Password=sql;Initial Catalog=Student;"))
             {
-                SqlCommand cmd = new SqlCommand("INSERT INTO Student_Det VALUES (1302,'john','30','HR')", con);
+                SqlCommand cmd = new SqlCommand("INSERT INTO Student_Det VALUES (202,'john','30','HR')", con);
                 con.Open(); 
                 int X = cmd.ExecuteNonQuery();
                 MessageBox.Show(X + " record inserted successfully.");
@@ -37,7 +37,7 @@ namespace Win_Form
             using (SqlConnection con = new SqlConnection("Server=DESKTOP-7ML64CQ;User Id=sa;Password=sql;Initial Catalog=Student;"))
             {
                 SqlCommand cmd = new SqlCommand("DELETE FROM Student_Det WHERE StudentID = @id", con);
-                cmd.Parameters.AddWithValue("@id", 4); con.Open();
+                cmd.Parameters.AddWithValue("@id", 5); con.Open();
                 int rowsAffected = cmd.ExecuteNonQuery();
                 MessageBox.Show(rowsAffected + " record deleted successfully.");
             }
@@ -53,9 +53,9 @@ namespace Win_Form
             SqlConnection con = new SqlConnection("Server=DESKTOP-7ML64CQ;User Id=sa;Password=sql;Initial Catalog=Student;");
             SqlCommand cmd = new SqlCommand("UPDATE Student_Det SET StudentName=@name, Dept=@dept WHERE StudentID=@id", con);
             {
-                cmd.Parameters.AddWithValue("@name", "Jeeva");
+                cmd.Parameters.AddWithValue("@name", "Kannan");
                 cmd.Parameters.AddWithValue("@dept", "IT");
-                cmd.Parameters.AddWithValue("@id", 5);
+                cmd.Parameters.AddWithValue("@id", 17);
                 con.Open();
                 int rows = cmd.ExecuteNonQuery();
                 MessageBox.Show(rows + " record updated successfully.");

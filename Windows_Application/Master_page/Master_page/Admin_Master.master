@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin_Master.master.cs" Inherits="Master_page.Admin_Master" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Bag World Admin Panel</title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <link href="Admin.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header class="admin-header">
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/bag_logo.jpg" CssClass="logo" />
+            <asp:Label ID="Label1" runat="server" Text="Bag World" CssClass="header-title"></asp:Label>
+        </header>
+
+        <nav class="admin-nav">
+            <asp:HyperLink ID="lnkHome" runat="server" NavigateUrl="~/Home.aspx" Text="Home" CssClass="menu-link" />
+            <asp:HyperLink ID="lnkProduct" runat="server" NavigateUrl="~/Product.aspx" Text="Products" CssClass="menu-link" />
+            <asp:HyperLink ID="lnkBrand" runat="server" NavigateUrl="~/Brand.aspx" Text="Brand" CssClass="menu-link" />
+            <asp:HyperLink ID="lnkAbout" runat="server" NavigateUrl="~/About.aspx" Text="About" CssClass="menu-link" />
+            <asp:HyperLink ID="lnkExit" runat="server" NavigateUrl="~/Home.aspx" Text="Exit" CssClass="menu-link" />
+        </nav>
+
+        <main class="admin-content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </main>
+    </form>
+</body>
+</html>

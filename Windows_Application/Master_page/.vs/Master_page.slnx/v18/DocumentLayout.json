@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\Master_page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\admin_master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\admin_master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\admin_master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\admin_master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|d:\\.net\\windows_application\\master_page\\master_page\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|d:\\.net\\windows_application\\master_page\\master_page\\brand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\brand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\user_master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\user_master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\exit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\exit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\login page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\login page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\About.aspx",
+              "RelativeDocumentMoniker": "Master_page\\About.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\About.aspx",
+              "RelativeToolTip": "Master_page\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-11T05:13:17.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Brand.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Brand.aspx",
+              "RelativeDocumentMoniker": "Master_page\\Brand.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Brand.aspx",
+              "RelativeToolTip": "Master_page\\Brand.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-11T05:06:53.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Product.aspx",
+              "RelativeDocumentMoniker": "Master_page\\Product.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Product.aspx",
+              "RelativeToolTip": "Master_page\\Product.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T05:20:08.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin_Master.master",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Admin_Master.master",
+              "RelativeDocumentMoniker": "Master_page\\Admin_Master.master",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Admin_Master.master",
+              "RelativeToolTip": "Master_page\\Admin_Master.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T03:57:30.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Home.aspx",
+              "RelativeDocumentMoniker": "Master_page\\Home.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Home.aspx",
+              "RelativeToolTip": "Master_page\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T05:08:25.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User_master.Master",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\User_master.Master",
+              "RelativeDocumentMoniker": "Master_page\\User_master.Master",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\User_master.Master",
+              "RelativeToolTip": "Master_page\\User_master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T03:58:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin_Master.master.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Admin_Master.master.cs",
+              "RelativeDocumentMoniker": "Master_page\\Admin_Master.master.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Admin_Master.master.cs",
+              "RelativeToolTip": "Master_page\\Admin_Master.master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:30:49.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exit.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Exit.aspx",
+              "RelativeDocumentMoniker": "Master_page\\Exit.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Exit.aspx",
+              "RelativeToolTip": "Master_page\\Exit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T06:11:38.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.css",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Admin.css",
+              "RelativeDocumentMoniker": "Master_page\\Admin.css",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Admin.css",
+              "RelativeToolTip": "Master_page\\Admin.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-10T04:52:18.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login Page.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Login Page.aspx",
+              "RelativeDocumentMoniker": "Master_page\\Login Page.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Master_page\\Master_page\\Login Page.aspx",
+              "RelativeToolTip": "Master_page\\Login Page.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T03:54:53.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
