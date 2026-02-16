@@ -1,11 +1,10 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Grid.aspx.cs" Inherits="Grid__crud.Grid" %>
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Customer Management</title>
-      <style>
+    <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -15,7 +14,7 @@
         }
 
         .container {
-            max-width: 600px;
+            max-width: 800px;
             margin: 0 auto;
         }
 
@@ -67,25 +66,18 @@
             outline: none;
         }
 
-        .form-control[readonly] {
-            background: #e9ecef;
-            color: #6c757d;
-        }
-
         .btn-primary {
             background: linear-gradient(45deg, #667eea, #764ba2);
             border: none;
             border-radius: 50px;
-            padding: 15px 40px;
-            font-size: 18px;
+            padding: 12px 30px;
+            font-size: 16px;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1px;
             color: white;
             cursor: pointer;
             transition: all 0.3s ease;
             box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
-            width: 100%;
         }
 
         .btn-primary:hover {
@@ -95,64 +87,80 @@
         }
 
         .form-group {
-            margin-bottom: 25px;
+            margin-bottom: 20px;
         }
 
-        .text-center {
-            text-align: center;
+        .grid-container {
+            margin-top: 30px;
         }
 
-        .message {
-            margin-top: 20px;
-            padding: 15px;
-            border-radius: 10px;
-            text-align: center;
-            font-weight: 500;
+        .gridview {
+            width: 100%;
+            border-collapse: collapse;
         }
 
-        .success {
-            background: #d4edda;
-            color: #155724;
-            border: 1px solid #c3e6cb;
+        .gridview th {
+            background: #667eea;
+            color: #fff;
+            padding: 10px;
+            text-align: left;
         }
 
-        .error {
-            background: #f8d7da;
-            color: #721c24;
-            border: 1px solid #f5c6cb;
+        .gridview td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .gridview tr:nth-child(even) {
+            background: #f9f9f9;
         }
     </style>
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-  <asp:Label runat="server" Text="Customer ID"></asp:Label>
-<asp:TextBox runat="server" ID="TxtCustID"></asp:TextBox><br /><br />
-<asp:Label runat="server" Text="Name"></asp:Label>
-<asp:TextBox runat="server" ID="TxtName"></asp:TextBox><br /><br />
-<asp:Label runat="server" Text="Address"></asp:Label>
-<asp:TextBox runat="server" ID="TxtAddress"></asp:TextBox><br /><br />
-<asp:Label runat="server" Text="Phone number"></asp:Label>
-<asp:TextBox runat="server" ID="TxtPhno"></asp:TextBox><br /><br />
-            <br /><br />
-             <br /><br />
-            <asp:Button ID="BtnInsert" runat="server" Text="INSERT" OnClick="BtnInsert_Click" />
+        <div class="container">
+            <h3>Customer Management</h3>
+            <div class="card">
+                <!-- Form Section -->
+                <div class="form-group">
+                    <label class="form-label">Customer ID</label>
+                    <asp:TextBox runat="server" ID="TxtCustID" CssClass="form-control" ReadOnly="true"></asp:TextBox>
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Name</label>
+                    <asp:TextBox runat="server" ID="TxtName" CssClass="form-control"></asp:TextBox>
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Address</label>
+                    <asp:TextBox runat="server" ID="TxtAddress" CssClass="form-control"></asp:TextBox>
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Phone Number</label>
+                    <asp:TextBox runat="server" ID="TxtPhno" CssClass="form-control"></asp:TextBox>
+                </div>
+                <div class="text-center">
+                    <asp:Button ID="BtnInsert" runat="server" Text="Insert Customer" CssClass="btn-primary" OnClick="BtnInsert_Click" />
+                </div>
+            </div>
 
-             <br /><br /> <br /><br />
-
-            <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataKeyNames="CustID" Height="152px" OnRowCancelingEdit="GridView1_RowCancelingEdit" 
-                OnRowDeleting="GridView1_RowDeleting"
-                OnRowEditing="GridView1_RowEditing"
-                OnRowUpdating="GridView1_RowUpdating" Width="553px" OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
-                         <Columns>                
-                    <asp:BoundField DataField="CustID" HeaderText="Customer Id" />
-                    <asp:BoundField DataField="Name" HeaderText="Customer Name" />
-                    <asp:BoundField DataField="Address" HeaderText="Address" />
-                    <asp:BoundField DataField="Phno" HeaderText="Phone Num" />
-                             <asp:CommandField HeaderText="Edit" ShowEditButton="True" />
-                             <asp:CommandField HeaderText="Delete" ShowDeleteButton="True" />
-                </Columns>
-            </asp:GridView>
+            <!-- Grid Section -->
+            <div class="grid-container">
+                <asp:GridView ID="GridView1" runat="server" CssClass="gridview" AutoGenerateColumns="False" DataKeyNames="CustID"
+                    OnRowCancelingEdit="GridView1_RowCancelingEdit"
+                    OnRowDeleting="GridView1_RowDeleting"
+                    OnRowEditing="GridView1_RowEditing"
+                    OnRowUpdating="GridView1_RowUpdating"
+                    OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
+                    <Columns>
+                        <asp:BoundField DataField="CustID" HeaderText="Customer ID" ReadOnly="true" />
+                        <asp:BoundField DataField="Name" HeaderText="Customer Name" />
+                        <asp:BoundField DataField="Address" HeaderText="Address" />
+                        <asp:BoundField DataField="Phno" HeaderText="Phone Number" />
+                        <asp:CommandField HeaderText="Edit" ShowEditButton="True" />
+                        <asp:CommandField HeaderText="Delete" ShowDeleteButton="True" />
+                    </Columns>
+                </asp:GridView>
+            </div>
         </div>
     </form>
 </body>

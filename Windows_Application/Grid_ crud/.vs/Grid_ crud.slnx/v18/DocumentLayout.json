@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\Grid_ crud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|D:\\.NET\\Windows_Application\\Grid_ crud\\grid_ crud\\grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|solutionrelative:grid_ crud\\grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|d:\\.net\\windows_application\\grid_ crud\\grid_ crud\\grid.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|solutionrelative:grid_ crud\\grid.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|D:\\.NET\\Windows_Application\\Grid_ crud\\grid_ crud\\grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|solutionrelative:grid_ crud\\grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|d:\\.net\\windows_application\\grid_ crud\\grid_ crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|solutionrelative:grid_ crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Grid_ crud\\Grid_ crud\\Web.config",
+              "RelativeDocumentMoniker": "Grid_ crud\\Web.config",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Grid_ crud\\Grid_ crud\\Web.config",
+              "RelativeToolTip": "Grid_ crud\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-15T23:30:10.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Grid.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Windows_Application\\Grid_ crud\\Grid_ crud\\Grid.aspx.cs",
               "RelativeDocumentMoniker": "Grid_ crud\\Grid.aspx.cs",
               "ToolTip": "D:\\.NET\\Windows_Application\\Grid_ crud\\Grid_ crud\\Grid.aspx.cs",
               "RelativeToolTip": "Grid_ crud\\Grid.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T05:25:17.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Grid.aspx",
               "DocumentMoniker": "D:\\.NET\\Windows_Application\\Grid_ crud\\Grid_ crud\\Grid.aspx",
               "RelativeDocumentMoniker": "Grid_ crud\\Grid.aspx",
               "ToolTip": "D:\\.NET\\Windows_Application\\Grid_ crud\\Grid_ crud\\Grid.aspx",
               "RelativeToolTip": "Grid_ crud\\Grid.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-13T00:45:28.886Z"
+              "WhenOpened": "2026-02-13T00:45:28.886Z",
+              "EditorCaption": ""
             }
           ]
         }
