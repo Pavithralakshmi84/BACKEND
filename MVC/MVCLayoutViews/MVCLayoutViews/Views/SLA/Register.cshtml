@@ -1,0 +1,144 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_SiteMaster.cshtml";
+}
+
+<h2>Register</h2>
+
+<h3 style="text-align:center;text-decoration:underline">Registration Page</h3>
+<table align="center" class="table-bordered">
+    <tr><td>Name:</td><td><input type="text" id="txtName" /></td></tr>
+    <tr><td>User Id:</td><td><input type="text" id="txtUid" /></td></tr>
+    <tr><td>Password:</td><td><input type="password" id="txtPwd" /></td></tr>
+    <tr><td>Confirm Password:</td><td><input type="password" id="txtCPwd" /></td></tr>
+    <tr><td>Mobile:</td><td><input type="tel" id="txtMobile" /></td></tr>
+    <tr><td>Email Id:</td><td><input type="email" id="txtEmail" /></td></tr>
+    <tr>
+        <td colspan="2" align="center">
+            <input type="submit" id="btnRegister" value="Register" />
+            <input type="reset" id="btnReset" value="Reset" />@{
+                ViewBag.Title = "Register";
+                Layout = "~/Views/Shared/_SiteMaster.cshtml";
+            }
+
+            <div class="container py-5 min-vh-100 d-flex align-items-center">
+                <div class="row justify-content-center w-100">
+                    <div class="col-lg-8 col-xl-6">
+                        <!-- Main Registration Card -->
+                        <div class="card shadow-xl border-0 rounded-4 mx-auto" style="max-width: 600px;">
+                            <div class="card-header bg-gradient-primary text-white py-4 rounded-top-4">
+                                <div class="text-center">
+                                    <h2 class="display-6 fw-bold mb-2">Register</h2>
+                                    <h4 class="fw-semibold text-decoration-underline mb-0">Registration Page</h4>
+                                </div>
+                            </div>
+
+                            <div class="card-body p-5">
+                                <!-- Registration Form -->
+                                <form id="registerForm">
+                                    <!-- Personal Info Row -->
+                                    <div class="row g-4 mb-4">
+                                        <div class="col-md-6">
+                                            <label for="txtName" class="form-label fw-bold fs-5 text-dark">Full Name</label>
+                                            <input type="text"
+                                                   class="form-control form-control-lg rounded-3 shadow-sm"
+                                                   id="txtName"
+                                                   placeholder="Enter your full name"
+                                                   required />
+                                        </div>
+                                        <div class="col-md-6">
+                                            <label for="txtMobile" class="form-label fw-bold fs-5 text-dark">Mobile</label>
+                                            <input type="tel"
+                                                   class="form-control form-control-lg rounded-3 shadow-sm"
+                                                   id="txtMobile"
+                                                   placeholder="Enter mobile number"
+                                                   pattern="[0-9]{10}"
+                                                   required />
+                                        </div>
+                                    </div>
+
+                                    <!-- Email Row -->
+                                    <div class="mb-4">
+                                        <label for="txtEmail" class="form-label fw-bold fs-5 text-dark">Email Address</label>
+                                        <input type="email"
+                                               class="form-control form-control-lg rounded-3 shadow-sm"
+                                               id="txtEmail"
+                                               placeholder="Enter your email address"
+                                               required />
+                                    </div>
+
+                                    <!-- Credentials Row -->
+                                    <div class="row g-4 mb-4">
+                                        <div class="col-md-6">
+                                            <label for="txtUid" class="form-label fw-bold fs-5 text-dark">User ID</label>
+                                            <input type="text"
+                                                   class="form-control form-control-lg rounded-3 shadow-sm"
+                                                   id="txtUid"
+                                                   placeholder="Choose your username"
+                                                   required />
+                                        </div>
+                                        <div class="col-md-6">
+                                            <label for="txtPwd" class="form-label fw-bold fs-5 text-dark">Password</label>
+                                            <input type="password"
+                                                   class="form-control form-control-lg rounded-3 shadow-sm"
+                                                   id="txtPwd"
+                                                   placeholder="Create password"
+                                                   required />
+                                        </div>
+                                    </div>
+
+                                    <!-- Confirm Password -->
+                                    <div class="mb-5">
+                                        <label for="txtCPwd" class="form-label fw-bold fs-5 text-dark">Confirm Password</label>
+                                        <input type="password"
+                                               class="form-control form-control-lg rounded-3 shadow-sm"
+                                               id="txtCPwd"
+                                               placeholder="Confirm your password"
+                                               required />
+                                    </div>
+
+                                    <!-- Action Buttons -->
+                                    <div class="d-grid gap-3">
+                                        <button type="submit"
+                                                id="btnRegister"
+                                                class="btn btn-success btn-lg rounded-3 shadow-lg fw-bold fs-5 py-3">
+                                            <i class="bi bi-person-plus me-2"></i>Register Now
+                                        </button>
+                                        <button type="button"
+                                                id="btnReset"
+                                                class="btn btn-outline-danger btn-lg rounded-3 fw-bold fs-5 py-3">
+                                            <i class="bi bi-arrow-clockwise me-2"></i>Reset Form
+                                        </button>
+                                    </div>
+                                </form>
+
+                                <!-- Additional Links -->
+                                <div class="mt-4 pt-4 border-top text-center">
+                                    <p class="mb-2 text-muted small">
+                                        Already have an account?
+                                        <a href="@Url.Action("Login", "CdsIt")" class="text-decoration-none fw-semibold link-primary">
+                                            Login here
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            @section S1 {
+                <div class="text-center">
+                    <span class="badge bg-success fs-6 px-5 py-3 fw-semibold shadow-lg">
+                        <i class="bi bi-star-fill me-2"></i>Join us for best IT Training
+                    </span>
+                </div>
+            }
+
+        </td>
+    </tr>
+</table>
+@section S1 {
+    <font size="3" color="blue">Join us for best IT Training.</font>
+}

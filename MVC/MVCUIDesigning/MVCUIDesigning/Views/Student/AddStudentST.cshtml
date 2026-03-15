@@ -1,0 +1,36 @@
+﻿@model MVCUIDesigning.Models.Student
+@{
+    ViewBag.Title = "AddStudentST";
+}
+
+<h2>AddStudentST</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(S => S.Sid);
+    <br />
+    @Html.TextBoxFor(S => S.Sid);
+    <br />
+    @Html.LabelFor(S => S.Name);
+    <br />
+    @Html.TextBoxFor(S => S.Name);
+    <br />
+    @Html.LabelFor(S => S.Class);
+    List<int> li = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+    SelectList items = new SelectList(li);
+    @Html.DropDownListFor(S => S.Class, items, "-Select Class-");
+    <br />
+    @Html.LabelFor(S => S.Gender);
+    @Html.RadioButtonFor(S => S.Gender, "Male")@:Male
+    @Html.RadioButtonFor(S => S.Gender, "Female")@:Female <br />
+    @Html.LabelFor(S => S.Fees);
+    <br />
+    @Html.TextBoxFor(S => S.Fees);
+    <br />
+    @Html.LabelFor(S => S.Address);
+    <br />
+    @Html.TextAreaFor(S => S.Address, 3, 21, new { });
+    <br />
+    <br />
+    <input type="submit" value="Save" />
+    <input type="reset" value="Reset" />
+}

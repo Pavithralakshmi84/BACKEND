@@ -33,10 +33,7 @@ namespace Gridview
             GridView1.DataBind();
         }
 
-        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
+        
 
         protected void GridView1_RowEditing(object sender, GridViewEditEventArgs e)
         {

@@ -1,0 +1,742 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\Project_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companyapplications.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companyapplications.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companyapplications.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companyapplications.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companydashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companydashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companydashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companydashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\postjob.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\postjob.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\applyjobs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\applyjobs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\shortlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\shortlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\shortlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\shortlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\viewstudentapplicationreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\viewstudentapplicationreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\viewstudentapplicationreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\viewstudentapplicationreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\jobposting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\jobposting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\jobposting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\jobposting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\companyreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companyreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\companyreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companyreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\studentreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\studentreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\admin_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\admin_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\studentreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\studentreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\admin_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\admin_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companydashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companydashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\studentdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\studentdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\studentdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\studentdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\applyjobs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\applyjobs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\new_job.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\new_job.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\new_job.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\new_job.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\studentlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\studentlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\studentlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\studentlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\student_register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\student_register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\student_register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\student_register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|d:\\.net\\windows_application\\project_1\\project_1\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\postjob.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\postjob.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\editprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\editprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\editprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\editprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companylogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companylogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companyregister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companyregister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companyregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companyregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|D:\\.NET\\Windows_Application\\Project_1\\project_1\\companylogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E406ED54-A76B-427A-9C66-76DDBB7CF45A}|Project_1\\Project_1.csproj|solutionrelative:project_1\\companylogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplyJobs.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\ApplyJobs.aspx",
+              "RelativeDocumentMoniker": "Project_1\\ApplyJobs.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\ApplyJobs.aspx",
+              "RelativeToolTip": "Project_1\\ApplyJobs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-13T06:22:04.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyDashboard.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyDashboard.aspx",
+              "RelativeDocumentMoniker": "Project_1\\CompanyDashboard.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyDashboard.aspx",
+              "RelativeToolTip": "Project_1\\CompanyDashboard.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-19T06:09:00.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\CompanyDashboard.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyDashboard.aspx.cs",
+              "RelativeToolTip": "Project_1\\CompanyDashboard.aspx.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAQwMYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:44:52.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyApplications.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyApplications.aspx",
+              "RelativeDocumentMoniker": "Project_1\\CompanyApplications.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyApplications.aspx",
+              "RelativeToolTip": "Project_1\\CompanyApplications.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T07:00:05.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyApplications.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyApplications.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\CompanyApplications.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyApplications.aspx.cs",
+              "RelativeToolTip": "Project_1\\CompanyApplications.aspx.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:00:43.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostJob.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\PostJob.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\PostJob.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\PostJob.aspx.cs",
+              "RelativeToolTip": "Project_1\\PostJob.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:20:20.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompanyReport.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyReport.aspx",
+              "RelativeDocumentMoniker": "Project_1\\CompanyReport.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyReport.aspx",
+              "RelativeToolTip": "Project_1\\CompanyReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-15T00:19:01.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobPosting.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\JobPosting.aspx",
+              "RelativeDocumentMoniker": "Project_1\\JobPosting.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\JobPosting.aspx",
+              "RelativeToolTip": "Project_1\\JobPosting.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-15T05:31:27.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shortlist.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Shortlist.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\Shortlist.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Shortlist.aspx.cs",
+              "RelativeToolTip": "Project_1\\Shortlist.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:37:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\AdminDashboard.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "Project_1\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:56:04.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "Project_1\\AdminDashboard.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\AdminDashboard.aspx",
+              "RelativeToolTip": "Project_1\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-14T23:30:52.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompanyReport.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyReport.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\CompanyReport.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyReport.aspx.cs",
+              "RelativeToolTip": "Project_1\\CompanyReport.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T00:19:41.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewStudentApplicationReport.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\ViewStudentApplicationReport.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\ViewStudentApplicationReport.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\ViewStudentApplicationReport.aspx.cs",
+              "RelativeToolTip": "Project_1\\ViewStudentApplicationReport.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:27:08.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shortlist.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Shortlist.aspx",
+              "RelativeDocumentMoniker": "Project_1\\Shortlist.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Shortlist.aspx",
+              "RelativeToolTip": "Project_1\\Shortlist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-15T13:36:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewStudentApplicationReport.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\ViewStudentApplicationReport.aspx",
+              "RelativeDocumentMoniker": "Project_1\\ViewStudentApplicationReport.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\ViewStudentApplicationReport.aspx",
+              "RelativeToolTip": "Project_1\\ViewStudentApplicationReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-15T13:26:45.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobPosting.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\JobPosting.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\JobPosting.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\JobPosting.aspx.cs",
+              "RelativeToolTip": "Project_1\\JobPosting.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T05:33:43.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Web.config",
+              "RelativeDocumentMoniker": "Project_1\\Web.config",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Web.config",
+              "RelativeToolTip": "Project_1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-02T06:04:31.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentReport.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentReport.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\StudentReport.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentReport.aspx.cs",
+              "RelativeToolTip": "Project_1\\StudentReport.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:36:24.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin_Login.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Admin_Login.aspx",
+              "RelativeDocumentMoniker": "Project_1\\Admin_Login.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Admin_Login.aspx",
+              "RelativeToolTip": "Project_1\\Admin_Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-02T05:16:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompanyDashboard.aspx.designer.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyDashboard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Project_1\\CompanyDashboard.aspx.designer.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyDashboard.aspx.designer.cs",
+              "RelativeToolTip": "Project_1\\CompanyDashboard.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:33:12.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Home.aspx",
+              "RelativeDocumentMoniker": "Project_1\\Home.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Home.aspx",
+              "RelativeToolTip": "Project_1\\Home.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-16T05:21:22.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentReport.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentReport.aspx",
+              "RelativeDocumentMoniker": "Project_1\\StudentReport.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentReport.aspx",
+              "RelativeToolTip": "Project_1\\StudentReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-14T23:35:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin_Login.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Admin_Login.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\Admin_Login.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Admin_Login.aspx.cs",
+              "RelativeToolTip": "Project_1\\Admin_Login.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:49:54.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\StudentDashboard.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentDashboard.aspx.cs",
+              "RelativeToolTip": "Project_1\\StudentDashboard.aspx.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAjwFMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:00:28.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "new_job.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\new_job.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\new_job.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\new_job.aspx.cs",
+              "RelativeToolTip": "Project_1\\new_job.aspx.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:54:18.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentDashboard.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentDashboard.aspx",
+              "RelativeDocumentMoniker": "Project_1\\StudentDashboard.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentDashboard.aspx",
+              "RelativeToolTip": "Project_1\\StudentDashboard.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-13T05:49:35.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "new_job.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\new_job.aspx",
+              "RelativeDocumentMoniker": "Project_1\\new_job.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\new_job.aspx",
+              "RelativeToolTip": "Project_1\\new_job.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-03T05:49:34.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplyJobs.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\ApplyJobs.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\ApplyJobs.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\ApplyJobs.aspx.cs",
+              "RelativeToolTip": "Project_1\\ApplyJobs.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:23:29.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentLogin.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentLogin.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\StudentLogin.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentLogin.aspx.cs",
+              "RelativeToolTip": "Project_1\\StudentLogin.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:04:52.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentLogin.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentLogin.aspx",
+              "RelativeDocumentMoniker": "Project_1\\StudentLogin.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\StudentLogin.aspx",
+              "RelativeToolTip": "Project_1\\StudentLogin.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-16T06:00:00.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Student_register.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Student_register.aspx",
+              "RelativeDocumentMoniker": "Project_1\\Student_register.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Student_register.aspx",
+              "RelativeToolTip": "Project_1\\Student_register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-25T04:39:06.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Student_register.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Student_register.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\Student_register.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Student_register.aspx.cs",
+              "RelativeToolTip": "Project_1\\Student_register.aspx.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:16:47.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditStudent.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\EditStudent.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\EditStudent.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\EditStudent.aspx.cs",
+              "RelativeToolTip": "Project_1\\EditStudent.aspx.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:25:06.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditStudent.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\EditStudent.aspx",
+              "RelativeDocumentMoniker": "Project_1\\EditStudent.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\EditStudent.aspx",
+              "RelativeToolTip": "Project_1\\EditStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-13T07:24:43.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PostJob.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\PostJob.aspx",
+              "RelativeDocumentMoniker": "Project_1\\PostJob.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\PostJob.aspx",
+              "RelativeToolTip": "Project_1\\PostJob.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T07:18:37.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditProfile.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\EditProfile.aspx",
+              "RelativeDocumentMoniker": "Project_1\\EditProfile.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\EditProfile.aspx",
+              "RelativeToolTip": "Project_1\\EditProfile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-12T05:16:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditProfile.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\EditProfile.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\EditProfile.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\EditProfile.aspx.cs",
+              "RelativeToolTip": "Project_1\\EditProfile.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:17:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\Home.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\Home.aspx.cs",
+              "RelativeToolTip": "Project_1\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:59:20.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CompanyLogin.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyLogin.aspx",
+              "RelativeDocumentMoniker": "Project_1\\CompanyLogin.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyLogin.aspx",
+              "RelativeToolTip": "Project_1\\CompanyLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-19T05:22:34.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CompanyRegister.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyRegister.aspx",
+              "RelativeDocumentMoniker": "Project_1\\CompanyRegister.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyRegister.aspx",
+              "RelativeToolTip": "Project_1\\CompanyRegister.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-16T05:39:50.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CompanyRegister.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyRegister.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\CompanyRegister.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyRegister.aspx.cs",
+              "RelativeToolTip": "Project_1\\CompanyRegister.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:50:24.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CompanyLogin.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyLogin.aspx.cs",
+              "RelativeDocumentMoniker": "Project_1\\CompanyLogin.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Project_1\\Project_1\\CompanyLogin.aspx.cs",
+              "RelativeToolTip": "Project_1\\CompanyLogin.aspx.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:27:56.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

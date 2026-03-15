@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\MVC\\MVCUIDesigning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\.net\\mvc\\mvcuidesigning\\mvcuidesigning\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\.net\\mvc\\mvcuidesigning\\mvcuidesigning\\views\\student\\displaystudentst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\student\\displaystudentst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\.net\\mvc\\mvcuidesigning\\mvcuidesigning\\views\\student\\addstudentst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\student\\addstudentst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\.net\\mvc\\mvcuidesigning\\mvcuidesigning\\views\\student\\displaystudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\student\\displaystudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\.net\\mvc\\mvcuidesigning\\mvcuidesigning\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\.net\\mvc\\mvcuidesigning\\mvcuidesigning\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|d:\\.net\\mvc\\mvcuidesigning\\mvcuidesigning\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\views\\account\\failure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\account\\failure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\views\\emp\\displayemp2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\emp\\displayemp2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\views\\emp\\displayemp1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\views\\emp\\displayemp1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|D:\\.NET\\MVC\\MVCUIDesigning\\mvcuidesigning\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE671D7-2E3C-474C-B833-22C97B6D29E4}|MVCUIDesigning\\MVCUIDesigning.csproj|solutionrelative:mvcuidesigning\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayStudentST.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\DisplayStudentST.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Student\\DisplayStudentST.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\DisplayStudentST.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Student\\DisplayStudentST.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T06:17:00.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentST.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\AddStudentST.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Student\\AddStudentST.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\AddStudentST.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Student\\AddStudentST.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T06:14:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayStudent.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\DisplayStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Student\\DisplayStudent.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\DisplayStudent.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Student\\DisplayStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T06:06:51.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T06:04:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:01:15.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Models\\Student.cs",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Models\\Student.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:57:08.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Failure.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Failure.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Account\\Failure.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Failure.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Account\\Failure.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T21:31:56.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Success.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Account\\Success.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Success.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Account\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T21:31:35.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T21:30:41.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:17:23.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DisplayEmp2.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Emp\\DisplayEmp2.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Emp\\DisplayEmp2.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Emp\\DisplayEmp2.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Emp\\DisplayEmp2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T19:52:03.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Models\\Employee.cs",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:47:37.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DisplayEmp1.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Emp\\DisplayEmp1.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Emp\\DisplayEmp1.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Emp\\DisplayEmp1.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Emp\\DisplayEmp1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T19:14:02.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVCUIDesigning\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:02:32.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddEmp.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Views\\Emp\\AddEmp.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeToolTip": "MVCUIDesigning\\Views\\Emp\\AddEmp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T13:36:19.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "MVCUIDesigning\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\.NET\\MVC\\MVCUIDesigning\\MVCUIDesigning\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "MVCUIDesigning\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:26:01.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

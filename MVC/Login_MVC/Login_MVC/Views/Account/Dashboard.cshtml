@@ -1,0 +1,15 @@
+﻿@model Login_MVC.Models.UserModel
+
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h2>Dashboard</h2>
+
+<h2>Welcome @Session["UserName"]</h2>
+
+<a href="@Url.Action("Logout","Account")">Logout</a>
+
+<a href="@Url.Action("UserList","Account")">View All User</a>
+
+<a href="@Url.Action("Register","Account")">New User Registration </a>

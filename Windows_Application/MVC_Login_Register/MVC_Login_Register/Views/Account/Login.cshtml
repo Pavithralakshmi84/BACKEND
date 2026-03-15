@@ -1,0 +1,23 @@
+﻿@model MVC_Login_Register.Models.UserModel
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<span style="color:red">@ViewBag.Error</span>
+
+@using (Html.BeginForm())
+{
+    @Html.TextBoxFor(m => m.Email, new { placeholder = "Email" })
+    <br />
+    @Html.PasswordFor(m => m.Password, new { placeholder = "Password" })
+    <br />
+
+    <button type="submit">Login</button>
+
+    <a href="@Url.Action("Register","Account")">New User Registration </a>
+
+
+}

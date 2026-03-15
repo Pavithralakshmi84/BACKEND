@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|d:\\.net\\windows_application\\mvc_login_register\\mvc_login_register\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|d:\\.net\\windows_application\\mvc_login_register\\mvc_login_register\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|D:\\.NET\\Windows_Application\\MVC_Login_Register\\mvc_login_register\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|D:\\.NET\\Windows_Application\\MVC_Login_Register\\mvc_login_register\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|D:\\.NET\\Windows_Application\\MVC_Login_Register\\mvc_login_register\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|D:\\.NET\\Windows_Application\\MVC_Login_Register\\mvc_login_register\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|D:\\.NET\\Windows_Application\\MVC_Login_Register\\mvc_login_register\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|D:\\.NET\\Windows_Application\\MVC_Login_Register\\mvc_login_register\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|D:\\.NET\\Windows_Application\\MVC_Login_Register\\mvc_login_register\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Login_Register\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T00:22:08.453Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVC_Login_Register\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:18:16.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\UserList.cshtml",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\Views\\Account\\UserList.cshtml",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\UserList.cshtml",
+              "RelativeToolTip": "MVC_Login_Register\\Views\\Account\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:09:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "MVC_Login_Register\\Views\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:07:05.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC_Login_Register\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T07:58:17.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVC_Login_Register\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T07:47:09.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_Login_Register\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:44:51.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Web.config",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\Web.config",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Web.config",
+              "RelativeToolTip": "MVC_Login_Register\\Web.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-27T07:42:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\Models\\UserModel.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Models\\UserModel.cs",
+              "RelativeToolTip": "MVC_Login_Register\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:40:25.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
