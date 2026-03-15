@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\Win_Form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A05220A2-2ED8-4E44-9DB3-BD1924D75E4E}|Win_Form\\Win_Form.csproj|D:\\.NET\\Windows_Application\\Win_Form\\win_form\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A05220A2-2ED8-4E44-9DB3-BD1924D75E4E}|Win_Form\\Win_Form.csproj|d:\\.net\\windows_application\\win_form\\win_form\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A05220A2-2ED8-4E44-9DB3-BD1924D75E4E}|Win_Form\\Win_Form.csproj|solutionrelative:win_form\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -41,8 +41,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -57,8 +61,7 @@
               "RelativeToolTip": "Win_Form\\Form2.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T04:55:46.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T04:55:46.816Z"
             },
             {
               "$type": "Document",
@@ -69,8 +72,7 @@
               "ToolTip": "D:\\.NET\\Windows_Application\\Win_Form\\Win_Form\\Form2.cs [Design]",
               "RelativeToolTip": "Win_Form\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T04:53:38.721Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-09T04:53:38.721Z"
             },
             {
               "$type": "Document",
@@ -82,8 +84,7 @@
               "RelativeToolTip": "Win_Form\\Form1.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAAADcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T12:49:47.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T12:49:47.472Z"
             },
             {
               "$type": "Document",
@@ -95,8 +96,7 @@
               "RelativeToolTip": "Win_Form\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T12:49:31.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T12:49:31.812Z"
             },
             {
               "$type": "Document",
@@ -107,8 +107,7 @@
               "ToolTip": "D:\\.NET\\Windows_Application\\Win_Form\\Win_Form\\Form1.cs [Design]",
               "RelativeToolTip": "Win_Form\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T12:23:55.268Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-08T12:23:55.268Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Win_Form\\Form3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T05:02:02.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T05:02:02.449Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "..\\Login_page\\Login_page\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T05:40:23.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T05:40:23.588Z"
             }
           ]
         }
