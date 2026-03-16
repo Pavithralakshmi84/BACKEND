@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|d:\\.net\\windows_application\\gridview_withoutdb\\gridview_withoutdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|solutionrelative:gridview_withoutdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|d:\\.net\\windows_application\\gridview_withoutdb\\gridview_withoutdb\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|solutionrelative:gridview_withoutdb\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|d:\\.net\\windows_application\\gridview_withoutdb\\gridview_withoutdb\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|solutionrelative:gridview_withoutdb\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|d:\\.net\\windows_application\\gridview_withoutdb\\gridview_withoutdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|solutionrelative:gridview_withoutdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|d:\\.net\\windows_application\\gridview_withoutdb\\gridview_withoutdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6D7613F-1EFD-4FB5-8079-9B9CC518E155}|Gridview_withoutDB\\Gridview_withoutDB.csproj|solutionrelative:gridview_withoutdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Program.cs",
+              "RelativeDocumentMoniker": "Gridview_withoutDB\\Program.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Program.cs",
+              "RelativeToolTip": "Gridview_withoutDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:44:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Form2.cs",
+              "RelativeDocumentMoniker": "Gridview_withoutDB\\Form2.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Form2.cs",
+              "RelativeToolTip": "Gridview_withoutDB\\Form2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:44:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Form2.cs",
+              "RelativeDocumentMoniker": "Gridview_withoutDB\\Form2.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Form2.cs [Design]",
+              "RelativeToolTip": "Gridview_withoutDB\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:43:55.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Form1.cs",
+              "RelativeDocumentMoniker": "Gridview_withoutDB\\Form1.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Form1.cs",
+              "RelativeToolTip": "Gridview_withoutDB\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:43:13.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Form1.cs",
+              "RelativeDocumentMoniker": "Gridview_withoutDB\\Form1.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\Gridview_withoutDB\\Gridview_withoutDB\\Form1.cs [Design]",
+              "RelativeToolTip": "Gridview_withoutDB\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:42:47.128Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
