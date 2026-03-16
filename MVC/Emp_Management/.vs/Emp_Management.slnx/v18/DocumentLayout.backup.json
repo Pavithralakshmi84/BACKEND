@@ -3,23 +3,27 @@
   "WorkspaceRootPath": "D:\\.NET\\MVC\\Emp_Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|d:\\.net\\mvc\\emp_management\\emp_management\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|solutionrelative:emp_management\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|d:\\.net\\mvc\\emp_management\\emp_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|solutionrelative:emp_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|D:\\.NET\\MVC\\Emp_Management\\emp_management\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|solutionrelative:emp_management\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|d:\\.net\\mvc\\emp_management\\emp_management\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|d:\\.net\\mvc\\emp_management\\emp_management\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|solutionrelative:emp_management\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|D:\\.NET\\MVC\\Emp_Management\\emp_management\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|solutionrelative:emp_management\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|d:\\.net\\mvc\\emp_management\\emp_management\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|D:\\.NET\\MVC\\Emp_Management\\emp_management\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|solutionrelative:emp_management\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|d:\\.net\\mvc\\emp_management\\emp_management\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|D:\\.NET\\MVC\\Emp_Management\\emp_management\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1B278BF6-8791-4512-B02A-B65BFBDACBAE}|Emp_Management\\Emp_Management.csproj|solutionrelative:emp_management\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Emp_Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Emp_Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:39:28.65Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -50,20 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Emp_Management\\Views\\Employee\\Index.cshtml",
               "ToolTip": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "Emp_Management\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-14T06:33:01.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Views\\Employee\\Delete.cshtml",
               "RelativeDocumentMoniker": "Emp_Management\\Views\\Employee\\Delete.cshtml",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "Emp_Management\\Views\\Employee\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-14T06:24:56.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T06:24:56.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "Emp_Management\\Views\\Employee\\Edit.cshtml",
@@ -84,12 +100,11 @@
               "RelativeToolTip": "Emp_Management\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-14T06:24:09.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T06:24:09.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "Emp_Management\\Views\\Employee\\Create.cshtml",
@@ -97,12 +112,11 @@
               "RelativeToolTip": "Emp_Management\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-14T06:22:28.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T06:22:28.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Web.config",
               "RelativeDocumentMoniker": "Emp_Management\\Web.config",
@@ -128,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\.NET\\MVC\\Emp_Management\\Emp_Management\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Emp_Management\\Models\\Employee.cs",
@@ -136,8 +150,7 @@
               "RelativeToolTip": "Emp_Management\\Models\\Employee.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T05:11:34.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T05:11:34.216Z"
             }
           ]
         }

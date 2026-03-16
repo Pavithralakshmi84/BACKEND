@@ -1,0 +1,2 @@
+D:\.NET\MVC\EF_MVC\EF_MVC\obj\Debug\EF_MVC.csproj.AssemblyReference.cache
+D:\.NET\MVC\EF_MVC\EF_MVC\obj\Debug\EF_MVC.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\.NET\LinqAssignments\LinqAssignments\bin\Debug\net10.0\LinqAssignments.exe
+D:\.NET\LinqAssignments\LinqAssignments\bin\Debug\net10.0\LinqAssignments.deps.json
+D:\.NET\LinqAssignments\LinqAssignments\bin\Debug\net10.0\LinqAssignments.runtimeconfig.json
+D:\.NET\LinqAssignments\LinqAssignments\bin\Debug\net10.0\LinqAssignments.dll
+D:\.NET\LinqAssignments\LinqAssignments\bin\Debug\net10.0\LinqAssignments.pdb
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\LinqAssignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\LinqAssignments.AssemblyInfoInputs.cache
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\LinqAssignments.AssemblyInfo.cs
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\LinqAssignments.csproj.CoreCompileInputs.cache
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\LinqAssignments.sourcelink.json
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\LinqAssignments.dll
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\refint\LinqAssignments.dll
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\LinqAssignments.pdb
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\LinqAssignments.genruntimeconfig.cache
+D:\.NET\LinqAssignments\LinqAssignments\obj\Debug\net10.0\ref\LinqAssignments.dll
