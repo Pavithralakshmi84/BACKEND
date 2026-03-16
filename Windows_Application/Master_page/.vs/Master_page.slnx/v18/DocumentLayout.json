@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\Master_page\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|d:\\.net\\windows_application\\master_page\\master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -15,11 +15,11 @@
       "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\admin_master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|d:\\.net\\windows_application\\master_page\\master_page\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|d:\\.net\\windows_application\\master_page\\master_page\\brand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|D:\\.NET\\Windows_Application\\Master_page\\master_page\\brand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8F83804D-470C-42FB-86B2-3A8B563CE78F}|Master_page\\Master_page.csproj|solutionrelative:master_page\\brand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -50,8 +50,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -66,8 +70,7 @@
               "RelativeToolTip": "Master_page\\About.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-11T05:13:17.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T05:13:17.498Z"
             },
             {
               "$type": "Document",
@@ -79,8 +82,7 @@
               "RelativeToolTip": "Master_page\\Brand.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-11T05:06:53.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T05:06:53.748Z"
             },
             {
               "$type": "Document",
@@ -92,8 +94,7 @@
               "RelativeToolTip": "Master_page\\Product.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-10T05:20:08.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T05:20:08.527Z"
             },
             {
               "$type": "Document",
@@ -122,10 +123,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "User_master.Master",
@@ -135,8 +132,7 @@
               "RelativeToolTip": "Master_page\\User_master.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-10T03:58:04.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T03:58:04.815Z"
             },
             {
               "$type": "Document",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "Master_page\\Admin_Master.master.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T05:30:49.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T05:30:49.941Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "Master_page\\Exit.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-10T06:11:38.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T06:11:38.049Z"
             },
             {
               "$type": "Document",
@@ -186,8 +180,7 @@
               "RelativeToolTip": "Master_page\\Login Page.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-10T03:54:53.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T03:54:53.316Z"
             }
           ]
         }

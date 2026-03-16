@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|d:\\.net\\windows_application\\mvc_login_register\\mvc_login_register\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|D:\\.NET\\Windows_Application\\MVC_Login_Register\\mvc_login_register\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F2D1225-A216-4602-984A-F93B16DDF959}|MVC_Login_Register\\MVC_Login_Register.csproj|solutionrelative:mvc_login_register\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -59,8 +59,7 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-02T00:22:08.453Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -72,18 +71,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "MVC_Login_Register\\App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "MVC_Login_Register\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T08:18:16.474Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserList.cshtml",
               "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Views\\Account\\UserList.cshtml",
@@ -92,8 +79,7 @@
               "RelativeToolTip": "MVC_Login_Register\\Views\\Account\\UserList.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-27T08:09:18.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T08:09:18.62Z"
             },
             {
               "$type": "Document",
@@ -105,8 +91,7 @@
               "RelativeToolTip": "MVC_Login_Register\\Views\\Account\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-27T08:07:05.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T08:07:05.087Z"
             },
             {
               "$type": "Document",
@@ -138,12 +123,24 @@
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MVC_Login_Register\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "MVC_Login_Register\\Controllers\\AccountController.cs*",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_Login_Register\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAAAJQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T07:44:51.034Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVC_Login_Register\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\MVC_Login_Register\\MVC_Login_Register\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVC_Login_Register\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:18:16.474Z"
             },
             {
               "$type": "Document",

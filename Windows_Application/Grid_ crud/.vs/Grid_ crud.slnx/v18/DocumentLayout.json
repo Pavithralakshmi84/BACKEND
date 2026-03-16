@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\Grid_ crud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|D:\\.NET\\Windows_Application\\Grid_ crud\\grid_ crud\\grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|d:\\.net\\windows_application\\grid_ crud\\grid_ crud\\grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|solutionrelative:grid_ crud\\grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|d:\\.net\\windows_application\\grid_ crud\\grid_ crud\\grid.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|D:\\.NET\\Windows_Application\\Grid_ crud\\grid_ crud\\grid.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|solutionrelative:grid_ crud\\grid.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|d:\\.net\\windows_application\\grid_ crud\\grid_ crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|D:\\.NET\\Windows_Application\\Grid_ crud\\grid_ crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C483B33E-6DBC-4C02-A282-16F78D6355B8}|Grid_ crud\\Grid_ crud.csproj|solutionrelative:grid_ crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -26,11 +26,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Grid_ crud\\Grid.aspx.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T05:25:17.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T05:25:17.143Z"
             },
             {
               "$type": "Document",
