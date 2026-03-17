@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\.NET\\MVC\\MVCLayoutViews\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\views\\sla\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\sla\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\controllers\\slacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\controllers\\slacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\views\\sla\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\sla\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|d:\\.net\\mvc\\mvclayoutviews\\mvclayoutviews\\views\\shared\\_sitemaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\views\\shared\\_sitemaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\shared\\_sitemaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\controllers\\slacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\controllers\\slacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\views\\sla\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\views\\sla\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|solutionrelative:mvclayoutviews\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF65B8A0-0008-4130-A30C-EC0407AB6153}|MVCLayoutViews\\MVCLayoutViews.csproj|D:\\.NET\\MVC\\MVCLayoutViews\\mvclayoutviews\\views\\sla\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\.NET\\MVC\\MVCLayoutViews\\MVCLayoutViews\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "MVCLayoutViews\\App_Start\\RouteConfig.cs",
@@ -66,11 +62,12 @@
               "RelativeToolTip": "MVCLayoutViews\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T04:55:11.099Z"
+              "WhenOpened": "2026-03-10T04:55:11.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Courses.cshtml",
               "DocumentMoniker": "D:\\.NET\\MVC\\MVCLayoutViews\\MVCLayoutViews\\Views\\SLA\\Courses.cshtml",
               "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\SLA\\Courses.cshtml",
@@ -78,12 +75,11 @@
               "RelativeToolTip": "MVCLayoutViews\\Views\\SLA\\Courses.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T04:42:49.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T04:42:49.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\.NET\\MVC\\MVCLayoutViews\\MVCLayoutViews\\Views\\SLA\\Login.cshtml",
               "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\SLA\\Login.cshtml",
@@ -91,21 +87,7 @@
               "RelativeToolTip": "MVCLayoutViews\\Views\\SLA\\Login.cshtml",
               "ViewState": "AgIAAC4AAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T04:42:13.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\.NET\\MVC\\MVCLayoutViews\\MVCLayoutViews\\Views\\SLA\\Register.cshtml",
-              "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\SLA\\Register.cshtml",
-              "ToolTip": "D:\\.NET\\MVC\\MVCLayoutViews\\MVCLayoutViews\\Views\\SLA\\Register.cshtml",
-              "RelativeToolTip": "MVCLayoutViews\\Views\\SLA\\Register.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T04:41:23.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T04:42:13.027Z"
             },
             {
               "$type": "Document",
@@ -121,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SLAController.cs",
               "DocumentMoniker": "D:\\.NET\\MVC\\MVCLayoutViews\\MVCLayoutViews\\Controllers\\SLAController.cs",
               "RelativeDocumentMoniker": "MVCLayoutViews\\Controllers\\SLAController.cs",
@@ -129,11 +111,12 @@
               "RelativeToolTip": "MVCLayoutViews\\Controllers\\SLAController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T04:32:16.878Z"
+              "WhenOpened": "2026-03-10T04:32:16.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_SiteMaster.cshtml",
               "DocumentMoniker": "D:\\.NET\\MVC\\MVCLayoutViews\\MVCLayoutViews\\Views\\Shared\\_SiteMaster.cshtml",
               "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\Shared\\_SiteMaster.cshtml",
@@ -141,8 +124,7 @@
               "RelativeToolTip": "MVCLayoutViews\\Views\\Shared\\_SiteMaster.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T04:09:07.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T04:09:07.76Z"
             },
             {
               "$type": "Document",
@@ -158,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\.NET\\MVC\\MVCLayoutViews\\MVCLayoutViews\\Views\\SLA\\About.cshtml",
               "RelativeDocumentMoniker": "MVCLayoutViews\\Views\\SLA\\About.cshtml",
