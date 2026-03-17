@@ -1,0 +1,10 @@
+D:\.NET\ADO\CustomerTable\CustomerTable\bin\Debug\CustomerTable.exe.config
+D:\.NET\ADO\CustomerTable\CustomerTable\bin\Debug\CustomerTable.exe
+D:\.NET\ADO\CustomerTable\CustomerTable\bin\Debug\CustomerTable.pdb
+D:\.NET\ADO\CustomerTable\CustomerTable\obj\Debug\CustomerTable.csproj.AssemblyReference.cache
+D:\.NET\ADO\CustomerTable\CustomerTable\obj\Debug\CustomerTable.Form1.resources
+D:\.NET\ADO\CustomerTable\CustomerTable\obj\Debug\CustomerTable.Properties.Resources.resources
+D:\.NET\ADO\CustomerTable\CustomerTable\obj\Debug\CustomerTable.csproj.GenerateResource.cache
+D:\.NET\ADO\CustomerTable\CustomerTable\obj\Debug\CustomerTable.csproj.CoreCompileInputs.cache
+D:\.NET\ADO\CustomerTable\CustomerTable\obj\Debug\CustomerTable.exe
+D:\.NET\ADO\CustomerTable\CustomerTable\obj\Debug\CustomerTable.pdb
