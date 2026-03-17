@@ -1,0 +1,15 @@
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\bin\Debug\net10.0\BookSalesDemo_Linq.exe
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\bin\Debug\net10.0\BookSalesDemo_Linq.deps.json
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\bin\Debug\net10.0\BookSalesDemo_Linq.runtimeconfig.json
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\bin\Debug\net10.0\BookSalesDemo_Linq.dll
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\bin\Debug\net10.0\BookSalesDemo_Linq.pdb
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\BookSalesDemo_Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\BookSalesDemo_Linq.AssemblyInfoInputs.cache
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\BookSalesDemo_Linq.AssemblyInfo.cs
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\BookSalesDemo_Linq.csproj.CoreCompileInputs.cache
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\BookSalesDemo_Linq.sourcelink.json
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\BookSalesDemo_Linq.dll
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\refint\BookSalesDemo_Linq.dll
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\BookSalesDemo_Linq.pdb
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\BookSalesDemo_Linq.genruntimeconfig.cache
+D:\.NET\Windows_Application\BookSalesDemo_Linq\BookSalesDemo_Linq\obj\Debug\net10.0\ref\BookSalesDemo_Linq.dll
