@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\.NET\\Windows_Application\\mini_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\addstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\addstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\studentlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\studentlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\addstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\addstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|D:\\.NET\\Windows_Application\\mini_project\\mini_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|D:\\.NET\\Windows_Application\\mini_project\\mini_project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|d:\\.net\\windows_application\\mini_project\\mini_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{03EE3F64-2929-46C2-9D64-1291E9FE4789}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +58,117 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditStudent.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\EditStudent.aspx.cs",
+              "RelativeDocumentMoniker": "mini_project\\EditStudent.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\EditStudent.aspx.cs",
+              "RelativeToolTip": "mini_project\\EditStudent.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:12:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditStudent.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\EditStudent.aspx",
+              "RelativeDocumentMoniker": "mini_project\\EditStudent.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\EditStudent.aspx",
+              "RelativeToolTip": "mini_project\\EditStudent.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-17T07:12:06.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudent.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\AddStudent.aspx.cs",
+              "RelativeDocumentMoniker": "mini_project\\AddStudent.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\AddStudent.aspx.cs",
+              "RelativeToolTip": "mini_project\\AddStudent.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:11:04.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "StudentList.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\StudentList.aspx",
+              "RelativeDocumentMoniker": "mini_project\\StudentList.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\StudentList.aspx",
+              "RelativeToolTip": "mini_project\\StudentList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-17T07:07:05.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentList.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\StudentList.aspx.cs",
+              "RelativeDocumentMoniker": "mini_project\\StudentList.aspx.cs",
+              "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\StudentList.aspx.cs",
+              "RelativeToolTip": "mini_project\\StudentList.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:07:45.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudent.aspx",
+              "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\AddStudent.aspx",
+              "RelativeDocumentMoniker": "mini_project\\AddStudent.aspx",
+              "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\AddStudent.aspx",
+              "RelativeToolTip": "mini_project\\AddStudent.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-17T07:10:44.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\Web.config",
               "RelativeDocumentMoniker": "mini_project\\Web.config",
               "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\Web.config",
               "RelativeToolTip": "mini_project\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-03-16T06:05:30.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\Login.aspx.cs",
               "RelativeDocumentMoniker": "mini_project\\Login.aspx.cs",
-              "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\Login.aspx.cs*",
-              "RelativeToolTip": "mini_project\\Login.aspx.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\Login.aspx.cs",
+              "RelativeToolTip": "mini_project\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T06:01:56.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Login.aspx",
               "DocumentMoniker": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\Login.aspx",
               "RelativeDocumentMoniker": "mini_project\\Login.aspx",
               "ToolTip": "D:\\.NET\\Windows_Application\\mini_project\\mini_project\\Login.aspx",
               "RelativeToolTip": "mini_project\\Login.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-03-16T06:00:12.695Z",
               "EditorCaption": ""
