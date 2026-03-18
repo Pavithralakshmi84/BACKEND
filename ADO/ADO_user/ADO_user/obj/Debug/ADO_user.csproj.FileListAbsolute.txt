@@ -1,0 +1,10 @@
+D:\.NET\ADO\ADO_user\ADO_user\bin\Debug\ADO_user.exe.config
+D:\.NET\ADO\ADO_user\ADO_user\bin\Debug\ADO_user.exe
+D:\.NET\ADO\ADO_user\ADO_user\bin\Debug\ADO_user.pdb
+D:\.NET\ADO\ADO_user\ADO_user\obj\Debug\ADO_user.csproj.AssemblyReference.cache
+D:\.NET\ADO\ADO_user\ADO_user\obj\Debug\ADO_user.Form1.resources
+D:\.NET\ADO\ADO_user\ADO_user\obj\Debug\ADO_user.Properties.Resources.resources
+D:\.NET\ADO\ADO_user\ADO_user\obj\Debug\ADO_user.csproj.GenerateResource.cache
+D:\.NET\ADO\ADO_user\ADO_user\obj\Debug\ADO_user.csproj.CoreCompileInputs.cache
+D:\.NET\ADO\ADO_user\ADO_user\obj\Debug\ADO_user.exe
+D:\.NET\ADO\ADO_user\ADO_user\obj\Debug\ADO_user.pdb
